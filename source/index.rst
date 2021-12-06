@@ -10,6 +10,7 @@ Welcome to Awesome Sing a Bit of Harmony's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   endorsement
 
 
 Indices and tables
