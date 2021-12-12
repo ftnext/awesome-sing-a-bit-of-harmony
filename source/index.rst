@@ -11,6 +11,7 @@ Welcome to Awesome Sing a Bit of Harmony's documentation!
    :caption: Contents:
 
    endorsement
+   festival
 
 
 Indices and tables
