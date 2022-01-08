@@ -62,4 +62,8 @@ html_static_path = ['_static']
 def setup(app):
     # Python3.7以降、asyncは予約語になったため、async="async" と指定できていない
     # ref: https://github.com/sphinx-doc/sphinx/issues/10013
-    app.add_js_file("https://platform.twitter.com/widgets.js", charset="utf-8")
+    app.add_js_file(
+        "https://platform.twitter.com/widgets.js",
+        defer="defer",
+        charset="utf-8",
+    )
