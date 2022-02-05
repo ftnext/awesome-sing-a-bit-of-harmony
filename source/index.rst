@@ -12,6 +12,7 @@ Welcome to Awesome Sing a Bit of Harmony's documentation!
 
    endorsement
    festival
+   pilgrimage
 
 
 Indices and tables
